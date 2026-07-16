@@ -1,0 +1,5 @@
+interface:
+  display_name: "MCN 商单脚本助手"
+  short_description: "拆解品牌 Brief、匹配达人风格并生成合规可拍脚本"
+  default_prompt: "Use $mcn-script-assistant to turn this verified creator research and brand brief into a compliant, shootable Xiaohongshu video script."
+
