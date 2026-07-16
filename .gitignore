@@ -2,6 +2,7 @@ __pycache__/
 *.py[cod]
 .tmp/
 automation/.env
+automation/.secrets/
 automation/output/
 account-separation-*.ps1
 apply-account-separation.ps1
@@ -18,4 +19,3 @@ verify-account-separation.ps1
 HR实习生-招新项目与报名审核Skill.md
 build_hr_resume.py
 周亮恒_HR实习生简历*
-
